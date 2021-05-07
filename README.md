@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Arsalan (@arslangzr)
-- 👀 I’m interested in web development, android development, programming
+- 👀 I’m interested in web development, android development, python, C++
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
