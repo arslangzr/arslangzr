@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Arsalan (@arslangzr)
-- 👀 I’m interested in web development, android development, python, C++
-- 🌱 I’m currently learning web development
-<!-- - 💞️ I’m looking to collaborate on Frappe Framework of Python -->
+- 👀 I’m interested in Web Development of Python
+- 🌱 I’m currently working in web development of python
+<!-- - 💞️ I’m looking to collaborate on Python Web Frameworks -->
 - 📫 How to reach me:
 LinkedIn Profile:
 https://www.linkedin.com/in/arslan-gzr/
