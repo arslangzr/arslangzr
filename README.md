@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Arsalan (@arslangzr)
-- 👀 I’m interested in Web Development of Python/Php
+- 👀 I’m interested in Web Development of Python/Php/JS
 - 🌱 I’m currently working in D.Watson Islamabad as a Php Developer
 - 💞️ I’m looking to collaborate on Php Web Frameworks
 - 📫 How to reach me:
