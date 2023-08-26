@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Arsalan (@arslangzr)
 - 💻 I'm a Software Engineer
 - 👀 I’m interested in Web Development of Python/Php/JS
-- 🌱 I’m currently working at SAK Technologies
+- 🌱 I’m currently working at 5point12 Analytics.
 - 💞️ I’m looking to collaborate on JS development (fullstack)
 - 📫 How to reach me:
 LinkedIn Profile:
