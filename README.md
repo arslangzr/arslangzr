@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslangzr" alt="arslangzr" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel Framework**
+- 🔭 I’m currently working on **Odoo Development**
 
-- 🌱 I’m currently learning **Amazon Web Services**
+- 🌱 I’m currently learning **ERP Modules of Odoo**
 
-- 👯 I’m looking to collaborate on **Php or Python codebase**
+- 👯 I’m looking to collaborate on **Python codebase**
 
-- 🤝 I’m looking for help with **Fullstack Development**
+- 🤝 I’m looking for help with **ERP Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/arslangzr](https://github.com/arslangzr)
 
-- 💬 Ask me about **Php development**
+- 💬 Ask me about **Python development**
 
 - 📫 How to reach me **arslan.gzr@gmail.com**
 
