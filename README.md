@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arslangzr" alt="arslangzr" /></a> </p>
 
-- 🔭 I’m currently working on **Odoo Development** at **AARSOL**
+- 🔭 I’m currently working on **Odoo Development**
 
 - 🌱 I’m currently learning **ERP Modules of Odoo**
 
