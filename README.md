@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Odoo Development**
 
-- 🌱 I’m currently learning **ERP Modules of Odoo**
+- 🌱 I’m currently developing **ERP Modules of Odoo**
 
 - 👯 I’m looking to collaborate on **Python codebase**
 
